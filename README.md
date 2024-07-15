@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/aswin-j-5739a028b)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswin-j-5739a028b/)
 - 😄 Pronouns: Dev Partner
 
 
